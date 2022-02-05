@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "lecture_24_1",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
